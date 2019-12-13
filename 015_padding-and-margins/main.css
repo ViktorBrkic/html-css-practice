@@ -1,0 +1,30 @@
+div{
+width: 200px;
+height: 200px;
+border: 1px solid red;
+border-radius: 100%;
+background-image: url("../009_absolute-urls/img/dog.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+display: inline-block;
+}
+
+img{
+  border: 10px groove orangered;
+  border-radius: 100%;
+  size: 10%;
+  padding: 50px;
+  margin: 50px;
+}
+
+.dogone {
+  border: 10px dashed orangered;
+}
+
+.dogtwo {
+  border: 10px dotted orangered;
+}
+
+.dogthree {
+  border: 10px double orangered;
+}
