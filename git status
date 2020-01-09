@@ -1,0 +1,53 @@
+[33mcommit 2d30b2c8f0e8a9b007255e64da77463f24efa6c5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Viktor Brkic <viktor.brkic1203@gmail.com>
+Date:   Sun Jan 5 19:06:37 2020 +0100
+
+    added 021 022 023 024 025 026
+
+[33mcommit 59c2d31396a622202d9477192667af2ccdd1e96f[m
+Author: Viktor Brkic <viktor.brkic1203@gmail.com>
+Date:   Mon Dec 30 20:47:08 2019 +0100
+
+    added 018 019 020
+
+[33mcommit 1d20785a8bcbc2db6046f8aa22bdb660d4fd816b[m
+Author: Viktor Brkic <viktor.brkic1203@gmail.com>
+Date:   Tue Dec 17 23:02:32 2019 +0100
+
+    added 017_hands-on-exercises
+
+[33mcommit 3e1bd57df5dcde3c9ab0a6eb84cd959ff22c0f8a[m
+Author: Viktor Brkic <viktor.brkic1203@gmail.com>
+Date:   Sat Dec 14 21:42:06 2019 +0100
+
+    adds 016 box sizing property
+
+[33mcommit 3e2f12222d961cfe2f0ceb70bae2be5f2228f998[m
+Author: Viktor Brkic <viktor.brkic1203@gmail.com>
+Date:   Fri Dec 13 21:39:43 2019 +0100
+
+    adds 014 and 015 display property and padding and margins
+
+[33mcommit cb352a1ffa54c50b62d59fae869f73b5d251ffda[m
+Author: Viktor Brkic <viktor.brkic1203@gmail.com>
+Date:   Fri Dec 13 21:12:20 2019 +0100
+
+    adds 012 and 013 border and border radius
+
+[33mcommit 7719c8b1a53c7346d9e928d5e2f0ec26004f52eb[m
+Author: Viktor Brkic <viktor.brkic1203@gmail.com>
+Date:   Thu Dec 5 23:24:11 2019 +0100
+
+    adds 006_emmet
+
+[33mcommit 5ef3317df5b346f342dab6bbc4ab0d1322d321e4[m
+Author: Viktor Brkic <viktor.brkic1203@gmail.com>
+Date:   Thu Dec 5 23:02:44 2019 +0100
+
+    adds files
+
+[33mcommit 31dc082fa2bf203a40c123d89983d648d616b653[m
+Author: Viktor Brkic <viktor.brkic1203@gmail.com>
+Date:   Tue Dec 3 20:45:30 2019 +0100
+
+    adds .gitignore file
